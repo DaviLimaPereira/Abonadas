@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servidores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<servidor>
+		<Registro>44973</Registro>
+		<Nome>ADRIANA MAROTE SERRAO RODRIGUES</Nome>
+		<Cargo>PROFESSOR ADJUNTO I</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>30861</Registro>
+		<Nome>ADRIANA REGINA MACHADO</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>50135</Registro>
+		<Nome>ADRIANA ROSA E SILVA</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>FUNDAMENTAL COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>39110</Registro>
+		<Nome>ADRIANO LEAL DE CARVALHO</Nome>
+		<Cargo>PROFESSOR III 30 HORAS</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>26684</Registro>
+		<Nome>ADRIELE APARECIDA CAMARGO DO COUTO</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>18734</Registro>
+		<Nome>ALEXSANDRA MARIM RODRIGUES</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>45229</Registro>
+		<Nome>ALINE APARECIDA DANTAS DOS SANTOS</Nome>
+		<Cargo>PROFESSOR ADJUNTO I</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>46977</Registro>
+		<Nome>ANA CLECIA DE OLIVEIRA SANTOS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>27269</Registro>
+		<Nome>ANA CRISTINA YUGULIS GOMES</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>43025</Registro>
+		<Nome>ANA LUCIA RODRIGUES CIMINO</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>27620</Registro>
+		<Nome>ANA PATRICIA VITAL</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>25337</Registro>
+		<Nome>ANDREZZA SANTOS DOS SANTOS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>29598</Registro>
+		<Nome>ANGELA MARIA DA SILVA SANTOS</Nome>
+		<Cargo>PROFESSOR I  27 HORAS</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>42571</Registro>
+		<Nome>BRUNO DE LIMA</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>SUPERIOR INCOMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>47192</Registro>
+		<Nome>CAISER JERONIMO GOMES</Nome>
+		<Cargo>SERVENTE II</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>42366</Registro>
+		<Nome>CAMILA BARBOSA DE OLIVEIRA SANTOS FARIAS</Nome>
+		<Cargo>TRABALHADOR</Cargo>
+		<Formação>FUNDAMENTAL INCOMPLETO (6o-9o)</Formação>
+	</servidor>
+	<servidor>
+		<Registro>41111</Registro>
+		<Nome>CARLA DOMINGOS DA SILVA DE SOUZA</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>52311</Registro>
+		<Nome>CLARICE KAPPES</Nome>
+		<Cargo>PROFESSOR ADJUNTO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>34610</Registro>
+		<Nome>CLAUDIA CRISTINA BASTOS DA SILVA</Nome>
+		<Cargo>DIRETORA DE UNIDADE ESCOLAR</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>26581</Registro>
+		<Nome>CLAUDIA ROSA DE LIMA</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>26652</Registro>
+		<Nome>CLEIDE MARIA SILVA LIMA DIAS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>31944</Registro>
+		<Nome>CRISTIANA ALVES DE SOUZA</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>43417</Registro>
+		<Nome>CRISTIANE DA SILVA SOUZA</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>27706</Registro>
+		<Nome>DAGMAR NARDES DE AGUIAR</Nome>
+		<Cargo>PROFESSOR I  27 HORAS</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>52940</Registro>
+		<Nome>DANIELE GONZALEZ SCALABRINI</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>47022</Registro>
+		<Nome>DAVI LIMA PEREIRA</Nome>
+		<Cargo>AGENTE ADMINISTRATIVO</Cargo>
+		<Formação>SUPERIOR INCOMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>36108</Registro>
+		<Nome>DINAH REGINA REIS VIEIRA DE OLIVEIRA</Nome>
+		<Cargo>SERVENTE I</Cargo>
+		<Formação>FUNDAMENTAL COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>43859</Registro>
+		<Nome>DULCIMARA MENDES VASCONCELOS DOS SANTOS</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>FUNDAMENTAL COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>32982</Registro>
+		<Nome>EDINALVA DOS SANTOS SARAIVA DIAS</Nome>
+		<Cargo>PROFESSOR ADJUNTO I</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>31318</Registro>
+		<Nome>ELAINE CEZAR VIANA</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>46196</Registro>
+		<Nome>ELAINE COSTA CONCEICAO</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>39695</Registro>
+		<Nome>ELIANE DIAS DA SILVA</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>52527</Registro>
+		<Nome>ELIEZER APARECIDO DE OLIVEIRA</Nome>
+		<Cargo>SERVENTE I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>53227</Registro>
+		<Nome>ELISANGELA MARIA DA SILVA</Nome>
+		<Cargo>SERVENTE I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>43063</Registro>
+		<Nome>ELISANGELA SOARES NOGUEIRA REKOWSKI</Nome>
+		<Cargo>TRABALHADOR</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>44940</Registro>
+		<Nome>FABIANO DOS SANTOS COSTA</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>41749</Registro>
+		<Nome>FANNY CRISTINA SILVA PAIVA</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>50555</Registro>
+		<Nome>FELIPE ALVES FERNANDES</Nome>
+		<Cargo>AGENTE ADMINISTRATIVO</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>51060</Registro>
+		<Nome>FERNANDA MARA DOS SANTOS</Nome>
+		<Cargo>SERVENTE II</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>52080</Registro>
+		<Nome>FRANCIELE DE CARVALHO XAVIER</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>31621</Registro>
+		<Nome>GEISIANE APARECIDA BARBOSA PEREIRA LEAL</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>48642</Registro>
+		<Nome>INGRID GONCALVES DINIZ</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>23828</Registro>
+		<Nome>IRAILDES DA SILVA SANTOS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>52846</Registro>
+		<Nome>ISABEL MARTINEZ RODRIGUES</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>53184</Registro>
+		<Nome>ISADORA SERRANO SENESE</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>44968</Registro>
+		<Nome>IVANA SANTANA ESCOBAR</Nome>
+		<Cargo>PROFESSOR ADJUNTO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>47181</Registro>
+		<Nome>IZILDA CRISTINA PRATA SOBRAL</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>36977</Registro>
+		<Nome>JACQUELINE LOPES CARRASCO</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>42148</Registro>
+		<Nome>JESSICA PRISCILLA DE ALMEIDA FRANCO</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>42068</Registro>
+		<Nome>JOSEFA EDENILDA SANTOS DE ANDRADE</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>42066</Registro>
+		<Nome>JULIANA BRAVO CANEVARI</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>50630</Registro>
+		<Nome>KAREN CRISTINA PEREIRA DE SOUZA SANTOS</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>46278</Registro>
+		<Nome>KARINA DOS SANTOS CHAVES</Nome>
+		<Cargo>PROFESSOR ADJUNTO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>47122</Registro>
+		<Nome>KARINA RAMOS FERNANDES</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>36768</Registro>
+		<Nome>KATIA DE SOUZA PALHARES</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>32525</Registro>
+		<Nome>KATIA SANTOS SILVA SARABANDO</Nome>
+		<Cargo>PROFESSOR I  27 HORAS</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>8993</Registro>
+		<Nome>LEILA DA GUIA RAMOS BORGES</Nome>
+		<Cargo>PROFESSOR I  27 HORAS</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>23798</Registro>
+		<Nome>LISLEA APARECIDA ALVES SOUZA</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>31666</Registro>
+		<Nome>LORELAI RIBEIRO</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>24169</Registro>
+		<Nome>LUCIENE CRISTINA E SILVA MUHSSEN DIAS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>19843</Registro>
+		<Nome>LUCIENE ROSA DOS SANTOS COSTA</Nome>
+		<Cargo>PROFESSOR ADJUNTO I</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>33284</Registro>
+		<Nome>LUZIA PALINKAS PEDRO</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>51500</Registro>
+		<Nome>MAIARA DE JESUS DOS SANTOS</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>50826</Registro>
+		<Nome>MARCIA RODRIGUES DO NASCIMENTO SANTOS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>51531</Registro>
+		<Nome>MARIA DA PENHA DOS SANTOS</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>53082</Registro>
+		<Nome>MARIANA DE PAULA GONCALVES OLIVEIRA</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>46299</Registro>
+		<Nome>MARINA EUZEBIO DOS SANTOS</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>47221</Registro>
+		<Nome>MARLI APARECIDA BARBOSA OKURA</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>25333</Registro>
+		<Nome>MIRTES MARIA PEREIRA DA SILVA</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>46366</Registro>
+		<Nome>MONICA RIBEIRO GONZAGA</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>34231</Registro>
+		<Nome>NEUSA MARIA LIMA</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>51418</Registro>
+		<Nome>NUBIA CAROLINA ALVES DE SALES</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>41774</Registro>
+		<Nome>PAOLA UEMURA GREGORIO</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>32010</Registro>
+		<Nome>PATRICIA APARECIDA TONIOLI</Nome>
+		<Cargo>SERVENTE I</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>47160</Registro>
+		<Nome>PATRICIA GOMES BAPTISTA</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>46741</Registro>
+		<Nome>PAULO RICARDO ALVES</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>FUNDAMENTAL COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>32503</Registro>
+		<Nome>REGINA FERREIRA DOS ANJOS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>51339</Registro>
+		<Nome>RICARDO PANCHAME CORTI</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>31837</Registro>
+		<Nome>ROSANA CRISTINA PEREIRA DE FREITAS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>35717</Registro>
+		<Nome>ROSANA DE JESUS SILVA FERNANDES</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>35759</Registro>
+		<Nome>ROSANGELA ALEXANDRE FIORI</Nome>
+		<Cargo>AGENTE ADMINISTRATIVO</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>45583</Registro>
+		<Nome>ROSANGELA DE RESENDE ANTUNES</Nome>
+		<Cargo>SERVENTE II</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>32976</Registro>
+		<Nome>ROSANGELA MARIA ALENCAR MELO</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>20536</Registro>
+		<Nome>ROSILENE IVONE PEREIRA NOGUEIRA</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>38309</Registro>
+		<Nome>SANDRA MARIA VITAL DE JESUS</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>33227</Registro>
+		<Nome>SELMA BULHOES SANTOS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>51672</Registro>
+		<Nome>SELMA DA SILVA RODRIGUES DOS SANTOS</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>22970</Registro>
+		<Nome>SILMARA MARIA DA SILVA</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>23901</Registro>
+		<Nome>THIAGO CAMARGO BARROS DE JESUS</Nome>
+		<Cargo>EDUCADOR DE DESENVOLVIMENTO INFANTOJUVENIL</Cargo>
+		<Formação>SUPERIOR COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>47489</Registro>
+		<Nome>VALENTINA RODRIGUES KATAOKA LOPES</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>39473</Registro>
+		<Nome>VALQUIRA SILVA CRUZ</Nome>
+		<Cargo>SERVENTE</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>24997</Registro>
+		<Nome>VERA LUCIA CESARIO</Nome>
+		<Cargo>PROFESSOR I  27 HORAS</Cargo>
+		<Formação>POS-GRADUADO</Formação>
+	</servidor>
+	<servidor>
+		<Registro>48301</Registro>
+		<Nome>VIRGINIA STEFANE MENDONCA DE ARAUJO</Nome>
+		<Cargo>ATENDENTE DE EDUCAÇÃO I</Cargo>
+		<Formação>ENSINO MEDIO COMPLETO</Formação>
+	</servidor>
+</servidores>
